@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\Week5Problems\bin\Debug\netcoreapp3.1\Week5Problems.exe
+C:\Users\Sebas\source\repos\Week5Problems\bin\Debug\netcoreapp3.1\Week5Problems.deps.json
+C:\Users\Sebas\source\repos\Week5Problems\bin\Debug\netcoreapp3.1\Week5Problems.runtimeconfig.json
+C:\Users\Sebas\source\repos\Week5Problems\bin\Debug\netcoreapp3.1\Week5Problems.runtimeconfig.dev.json
+C:\Users\Sebas\source\repos\Week5Problems\bin\Debug\netcoreapp3.1\Week5Problems.dll
+C:\Users\Sebas\source\repos\Week5Problems\bin\Debug\netcoreapp3.1\Week5Problems.pdb
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.csproj.AssemblyReference.cache
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.dll
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.pdb
+C:\Users\Sebas\source\repos\Week5Problems\obj\Debug\netcoreapp3.1\Week5Problems.genruntimeconfig.cache

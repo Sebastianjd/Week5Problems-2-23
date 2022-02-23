@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Week5Problems/1.0.0": {
+        "runtime": {
+          "Week5Problems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week5Problems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
